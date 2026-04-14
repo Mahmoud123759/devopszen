@@ -1,0 +1,5 @@
+server:
+  dataStorage:
+    enabled: true
+    storageClass: gp2
+    size: 10Gi
