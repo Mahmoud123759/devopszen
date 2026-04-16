@@ -6,7 +6,8 @@ metadata:
 
 spec:
   destination:
-    name: eks-demo
+    # you can use cluster name like name: eks-demo or server url
+    server: https://kubernetes.default.svc
     namespace: vault
   project: default
   sources:
