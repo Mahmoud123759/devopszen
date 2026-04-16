@@ -6,7 +6,7 @@ metadata:
 
 spec:
   destination:
-    name: eks-dev
+    name: eks-demo
     namespace: vault
   project: default
   sources:
